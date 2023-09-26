@@ -1,0 +1,11 @@
+body {
+    background-color: #FFB6C1;
+    }
+h1 {
+    text-align: center;
+    margin: 0.3em;
+    color:#ffffff;
+    font-size : 40px;
+    text-shadow: 2px 2px #ff0000;
+    letter-spacing: 5px;
+   }
